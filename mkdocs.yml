@@ -1,6 +1,6 @@
-site_name: 硬件黑客
+site_name: 硬件黑客手册
 site_description: Hardware Hacker
-repo_url: https://github.com/IterNull/hack-hardware-cn/
+repo_url: https://github.com/iternull-team/hack-hardware-cn/
 theme: readthedocs
 
 pages:

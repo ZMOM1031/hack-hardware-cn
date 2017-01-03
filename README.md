@@ -1,6 +1,6 @@
 # 简介 (Introduction)
 
-Hardware Hack Doc
+Hardware Hacker Doc
 
 # 许可 (License)
 
